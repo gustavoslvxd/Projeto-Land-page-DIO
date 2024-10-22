@@ -1,0 +1,178 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Oxanium:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agdasima:wght@400;700&display=swap');
+
+
+
+
+body{
+    background-image: linear-gradient(to left, #1a1e29, #132d46);
+
+
+}
+
+h1{
+    font-family: Oxanium;
+    text-align: center;
+    color: white;
+}
+
+p{
+    font-family: Agdasima;
+    color: #01c38e;
+    font-size: 20px;
+}
+
+strong{
+    text-shadow: 1px 1px 4px #01c38e;
+    color: white;
+}
+
+div{
+    color: #01c38e;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 10px;
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+   
+}
+
+a:hover{
+    color: darkcyan;
+}
+
+.minhafoto{
+    height: 250px;
+    margin:  0 auto;
+    display: block;
+    filter: drop-shadow(5px 5px 5px rgb(0, 0, 0))
+    
+    
+}
+
+.iconequalitech{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    width: 50px;
+    margin-left: 19px;
+}
+
+.iconemaquinadelavar{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    width: 70px;
+
+}
+
+.expqualitech{
+    margin-bottom: 20px;
+}
+
+.iconsenai{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    width: 70px;
+    margin-left: 10px;
+
+}
+
+.formsenai{
+    margin-bottom: 30px;
+    
+}
+
+.iconufpb{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    width: 50px;
+    margin-left: 10px;
+  
+
+}
+
+.icondio{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    width: 50px;
+
+}
+
+.iconcursoemvideo{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    width: 50px;
+    
+}
+
+.iconmicrosoft{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    width: 50px;
+
+
+}
+
+.iconiped{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    width: 50px;
+
+}
+
+.iconamaro{
+    float: left;
+    border: transparent thin solid;
+    padding: 5px;
+    margin: 0px 10px 10px 0;
+    max-width: 186px;
+    width: 50px;
+
+}
+
+.certificado{
+    margin-bottom: 30px;
+    margin-left: 20px;
+}
+
+footer{
+    text-align: center;
+    color: gray;
+}
+
+
+
+
+
+
